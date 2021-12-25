@@ -1,5 +1,5 @@
 # Finals
-| subject | date | time |
+| **subject** | **date** | **time** |
 | ---- | ---- | ---- |
 | English | Wednesday 5/01 | 10:30 |
 | Micro | Wednesday 5/01 | 3:30 |
