@@ -1,9 +1,9 @@
 # Finals
-| ##subject | ##date | ##time |
+| subject | date | time |
 | ---- | ---- | ---- |
-| english | Wednesday 5/01 | 10:30 |
+| English | Wednesday 5/01 | 10:30 |
 | Micro | Wednesday 5/01 | 3:30 |
-| scientific | Thursday 6/01 | 11:30 |
+| Scientific | Thursday 6/01 | 11:30 |
 | Discrete | Friday 7/01 | 9:30 |
 | Data | Monday 10/01 | 3:30 |
 | Python | Tuesday 11/01 | 11:30 |
